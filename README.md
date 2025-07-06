@@ -21,7 +21,6 @@
 🔹 [Gas Leakage Cut-off System](https://github.com/ajalsanal/Smart-Assistive-Glove-) – Auto shut-off via MQ-2 + servo  
 🔹 [Automatic Cleaning Robot](https://github.com/ajalsanal/floor-cleaner) – Remote mop bot with RF control  
 
-> *(Links will work after you push these repos to GitHub)*
 
 ---
 
