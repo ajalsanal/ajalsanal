@@ -27,8 +27,8 @@
 
 ### 📈 GitHub Stats
 
-![Ajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react)
+![Ajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajalsanal&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajalsanal&layout=compact&theme=react)
 
 ---
 
