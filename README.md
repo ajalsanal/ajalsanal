@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ajal Sanal
+# 👋 Hi, I'm S.Ajal
 
 🎓 B.Tech ECE | NSS College of Engineering, Palakkad  
 🔧 Passionate about Embedded Systems, IoT, and Real-Time Projects  
