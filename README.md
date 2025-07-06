@@ -17,9 +17,9 @@
 ---
 
 ### 💼 Projects
-🔹 [Smart Assistive Glove](https://github.com/yourusername/assistive-glove) – Communication glove for bedridden patients  
-🔹 [Gas Leakage Cut-off System](https://github.com/yourusername/gas-safety-system) – Auto shut-off via MQ-2 + servo  
-🔹 [Automatic Cleaning Robot](https://github.com/yourusername/floor-cleaner) – Remote mop bot with RF control  
+🔹 [Smart Assistive Glove](https://github.com/ajalsanal/assistive-glove) – Communication glove for bedridden patients  
+🔹 [Gas Leakage Cut-off System](https://github.com/ajalsanal/gas-safety-system) – Auto shut-off via MQ-2 + servo  
+🔹 [Automatic Cleaning Robot](https://github.com/ajalsanal/floor-cleaner) – Remote mop bot with RF control  
 
 > *(Links will work after you push these repos to GitHub)*
 
@@ -43,7 +43,6 @@
 ### 📫 Reach Me
 📧 ajalsanal765@gmail.com  
 🔗 [LinkedIn (Optional)](https://www.linkedin.com/in/your-profile)  
-🌐 Portfolio coming soon...
 
 ---
 
