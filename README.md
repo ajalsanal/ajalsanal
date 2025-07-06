@@ -25,12 +25,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-![Ajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajalsanal&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajalsanal&layout=compact&theme=react)
-
----
 
 ### 🏅 Achievements
 - Certified Intern: BSNL, Indian Railways  
@@ -42,7 +37,7 @@
 
 ### 📫 Reach Me
 📧 ajalsanal765@gmail.com  
-🔗 [LinkedIn (Optional)](https://www.linkedin.com/in/your-profile)  
+🔗 [LinkedIn ](https://www.linkedin.com/in/s-ajal-784420343/)  
 
 ---
 
